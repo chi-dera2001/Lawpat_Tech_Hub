@@ -41,6 +41,7 @@ Select * from table
 Where condition = TRUE
 ```
 ### Data Visualization
+![sales chart](sales_chart_png.png)
 
 
 
